@@ -1,4 +1,4 @@
-FROM debian:stretch AS builder
+FROM balenalib/raspberry-pi-debian:stretch AS builder
 MAINTAINER "Cédric Verstraeten" <hello@cedric.ws>
 
 ARG APP_ENV=master
