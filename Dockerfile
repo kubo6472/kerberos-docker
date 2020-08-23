@@ -9,8 +9,8 @@ ARG FFMPEG_VERSION=3.1
 #################################
 # Surpress Upstart errors/warning
 
-RUN dpkg-divert --local --rename --add /sbin/initctl
-RUN ln -sf /bin/true /sbin/initctl
+# RUN dpkg-divert --local --rename --add /sbin/initctl
+# RUN ln -sf /bin/true /sbin/initctl
 
 #############################################
 # Let the container know that there is no tty

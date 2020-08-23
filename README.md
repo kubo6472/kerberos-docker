@@ -1,5 +1,4 @@
 ## THIS IS JUST FOR TESTING, DO NOT USE IN PRODUCTION. ARMv6 Compatibility
-Trying to force this to be built
 # Kerberos Open Source - Docker
 
 [![Build Status](https://travis-ci.org/kerberos-io/docker.svg)](https://travis-ci.org/kerberos-io/docker) [![Join the chat](https://img.shields.io/gitter/room/TechnologyAdvice/Stardust.svg?style=flat)](https://gitter.im/kerberos-io/hades?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
